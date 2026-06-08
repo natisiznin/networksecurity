@@ -1,0 +1,6 @@
+2026-06-08 15:47:02,967 - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2026-06-08 15:47:02,976 - INFO - Accessing as natisiznin
+2026-06-08 15:47:04,502 - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/natisiznin/networksecurity "HTTP/1.1 200 OK"
+2026-06-08 15:47:05,833 - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2026-06-08 15:47:05,835 - INFO - Initialized MLflow to track repo "natisiznin/networksecurity"
+2026-06-08 15:47:05,835 - INFO - Repository natisiznin/networksecurity initialized!
