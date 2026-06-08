@@ -24,8 +24,11 @@ from sklearn.ensemble import (
 import mlflow
 from urllib.parse import urlparse
 
-# Explicitly set the local SQLite tracking database for MLflow 3.x compatibility
-mlflow.set_tracking_uri("sqlite:///mlflow.db")
+
+
+import dagshub
+dagshub.init(repo_owner='natisiznin', repo_name='networksecurity', mlflow=True)
+
 
 
 class ModelTrainer:
