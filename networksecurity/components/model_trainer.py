@@ -27,7 +27,6 @@ from urllib.parse import urlparse
 
 
 import dagshub
-dagshub.init(repo_owner='natisiznin', repo_name='networksecurity', mlflow=True)
 
 
 
@@ -40,7 +39,10 @@ class ModelTrainer:
             raise NetworkSecurityException(e,sys)
             
     def track_mlflow(self, best_model, classificationmetric):
+        dagshub.init(repo_owner='natisiznin', repo_name='networksecurity', mlflow=True)
+
         with mlflow.start_run():
+
             f1_score = classificationmetric.f1_score
             precision_score = classificationmetric.precision_score
             recall_score = classificationmetric.recall_score
