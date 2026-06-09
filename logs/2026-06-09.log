@@ -1,0 +1,18 @@
+2026-06-09 14:35:46,365 - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2026-06-09 14:35:46,373 - INFO - Accessing as natisiznin
+2026-06-09 14:35:48,105 - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/natisiznin/networksecurity "HTTP/1.1 200 OK"
+2026-06-09 14:35:49,539 - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2026-06-09 14:35:49,541 - INFO - Initialized MLflow to track repo "natisiznin/networksecurity"
+2026-06-09 14:35:49,541 - INFO - Repository natisiznin/networksecurity initialized!
+2026-06-09 14:35:56,095 - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2026-06-09 14:35:56,108 - INFO - Accessing as natisiznin
+2026-06-09 14:35:57,629 - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/natisiznin/networksecurity "HTTP/1.1 200 OK"
+2026-06-09 14:35:59,369 - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2026-06-09 14:35:59,371 - INFO - Initialized MLflow to track repo "natisiznin/networksecurity"
+2026-06-09 14:35:59,373 - INFO - Repository natisiznin/networksecurity initialized!
+2026-06-09 14:40:01,516 - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2026-06-09 14:40:01,535 - INFO - Accessing as natisiznin
+2026-06-09 14:40:03,028 - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/natisiznin/networksecurity "HTTP/1.1 200 OK"
+2026-06-09 14:40:04,253 - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2026-06-09 14:40:04,255 - INFO - Initialized MLflow to track repo "natisiznin/networksecurity"
+2026-06-09 14:40:04,255 - INFO - Repository natisiznin/networksecurity initialized!
