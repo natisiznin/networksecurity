@@ -32,7 +32,6 @@ In cybersecurity threat detection, minimizing false negatives is critical. The d
 ---
 
 ## 🏗️ System Architecture & MLOps Pipeline
-<img width="1232" height="492" alt="image" src="https://github.com/user-attachments/assets/590b4949-0685-4848-9c71-01863f32140b" />
 
 
 ```text
@@ -49,9 +48,6 @@ In cybersecurity threat detection, minimizing false negatives is critical. The d
                    [ GitHub Actions CI/CD Pipeline ]
                                        │
                                        ▼
-                      [ AWS EC2 Production Server ]
+                      [ AWS EC2 Production Server
+<img width="1233" height="492" alt="Screenshot 2026-09-18 152925" src="https://github.com/user-attachments/assets/a0e925b1-e16e-4916-bca0-7ec1cc8884aa" />
 
-
-
-
-<img width="1232" height="492" alt="image" src="https://github.com/user-attachments/assets/49e36306-889d-452c-9901-d8312d52d6f6" />
